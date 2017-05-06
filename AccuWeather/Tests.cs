@@ -4,6 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Xamarin.UITest;
 using Xamarin.UITest.Queries;
+using System.Net.Configuration;
 
 namespace AccuWeather
 {
@@ -34,7 +35,11 @@ namespace AccuWeather
 		[Test]
 		public void FirstTest()
 		{
-			
+			app.Tap("button1");
+			app.Screenshot("Let's start by Tapping on the 'Agree' Button");
+
+			app.Tap(x => x.Class("android.widget.ImageButton").Index(0));
+
 		}
 
 	}
