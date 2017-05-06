@@ -39,6 +39,9 @@ namespace AccuWeather
 			app.Screenshot("Let's start by Tapping on the 'Agree' Button");
 
 			app.Tap(x => x.Class("android.widget.ImageButton").Index(0));
+			app.Screenshot("Then we Tapped the 'Hamburger' Button");
+
+
 
 		}
 
