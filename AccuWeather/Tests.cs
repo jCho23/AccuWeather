@@ -48,6 +48,7 @@ namespace AccuWeather
 			app.Screenshot("Then we Tapped 'Enter' on the keyobard");
 
 			app.Tap(x => x.Class("android.widget.RelativeLayout").Index(1));
+			app.Screenshot("We Tapped on the first result, 'San Francisco'");
 
 		}
 
