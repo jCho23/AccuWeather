@@ -1,0 +1,7 @@
+/Users/junecho/Projects/AccuWeather/AccuWeather/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/junecho/Projects/AccuWeather/AccuWeather/bin/Debug/AccuWeather.dll.mdb
+/Users/junecho/Projects/AccuWeather/AccuWeather/bin/Debug/AccuWeather.dll
+/Users/junecho/Projects/AccuWeather/AccuWeather/obj/Debug/AccuWeather.dll
+/Users/junecho/Projects/AccuWeather/AccuWeather/obj/Debug/AccuWeather.dll.mdb
+/Users/junecho/Projects/AccuWeather/AccuWeather/bin/Debug/nunit.framework.dll
+/Users/junecho/Projects/AccuWeather/AccuWeather/bin/Debug/Xamarin.UITest.dll
