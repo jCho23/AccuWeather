@@ -30,5 +30,12 @@ namespace AccuWeather
 		{
 			app.Repl();
 		}
+
+		[Test]
+		public void FirstTest()
+		{
+			
+		}
+
 	}
 }
