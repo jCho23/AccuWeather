@@ -46,6 +46,7 @@ namespace AccuWeather
 
 
 			app.EnterText("San Francisco");
+			app.Screenshot("We entered our search, 'San Francisco'");
 			app.PressEnter();
 
 
