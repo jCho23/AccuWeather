@@ -41,6 +41,12 @@ namespace AccuWeather
 			app.Tap(x => x.Class("android.widget.ImageButton").Index(0));
 			app.Screenshot("Then we Tapped the 'Hamburger' Button");
 
+			app.Tap("search_text");
+
+
+			app.EnterText("San Francisco");
+			app.PressEnter();
+
 
 
 		}
