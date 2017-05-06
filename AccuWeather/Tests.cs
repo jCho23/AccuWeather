@@ -48,6 +48,9 @@ namespace AccuWeather
 			app.PressEnter();
 
 
+			app.Tap(x => x.Class("android.widget.RelativeLayout").Index(1));
+
+
 
 		}
 
