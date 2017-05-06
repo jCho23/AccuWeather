@@ -42,6 +42,7 @@ namespace AccuWeather
 			app.Screenshot("Then we Tapped the 'Hamburger' Button");
 
 			app.Tap("search_text");
+			app.Screenshot("Next we Tapped on the 'Search Text' Field");
 
 
 			app.EnterText("San Francisco");
